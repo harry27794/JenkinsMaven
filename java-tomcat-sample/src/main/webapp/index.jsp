@@ -1,5 +1,15 @@
-<p>This is a paragraph.</p>
+<p>
+This paragraph
+contains a lot of lines
+in the source code,
+but the browser
+ignores it.
+</p>
 
-<!-- <p>This is another paragraph </p> -->
-
-<p>This is a paragraph too.</p>
+<p>
+This paragraph
+contains         a lot of spaces
+in the source         code,
+but the        browser
+ignores it.
+</p>
