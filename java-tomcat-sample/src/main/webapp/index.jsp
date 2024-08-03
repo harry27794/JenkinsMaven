@@ -1,6 +1,2 @@
-<body>
-
-<h1 style="background-color:powderblue;">This is a heading</h1>
-<p style="background-color:tomato;">This is a paragraph.</p>
-
-</body>
+<h1 style="text-align:center;">Centered Heading</h1>
+<p style="text-align:center;">Centered paragraph.</p>
